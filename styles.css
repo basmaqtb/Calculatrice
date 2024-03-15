@@ -44,6 +44,7 @@ button{
     display: flex;
     justify-content: flex-end;
     margin: 15px 0;
+    color: white;
 }
 #display_input{
     border: 0;
@@ -103,5 +104,3 @@ button:active{
     }
     
 }
-
-
